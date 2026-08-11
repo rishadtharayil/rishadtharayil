@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mohammed Rishad T 👋
+**Full-Stack & Mobile Developer | B.Tech CSE Graduate (2026)**
 
-<!--
-**rishadtharayil/rishadtharayil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Malappuram, Kerala, India  
+🌐 Live Project: [careersea.in](http://careersea.in) | 💼 [LinkedIn](https://www.linkedin.com/in/rishadtharayil/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+- **[CareerSea](https://github.com/rishadtharayil/CareerSea)** — AI Career Guidance Platform (*React, Django, PostgreSQL, Google Cloud Run, GitHub Actions*)
+- **Clipboard-Bridge** — Cross-Platform Clipboard Sync (*Kotlin, Python, AES-GCM Encryption*)
+- **NutriScan** — Food Ingredient Analyzer (*Flutter, Gemini Vision API*)
+
+---
+
+### 🛠 Technical Toolkit
+- **Languages:** Python, JavaScript, Dart, Java, C++
+- **Backend & Cloud:** Django, REST APIs, PostgreSQL, MySQL, Google Cloud Platform (Cloud Run, Secret Manager), Docker
+- **Frontend & Mobile:** React.js, Vite, Flutter, HTML/CSS
+- **DevOps & AI:** Git, GitHub Actions CI/CD, Gemini API, LangChain, Ollama
+
+---
